@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "C_Cpp.enhancedColorization": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "rust-analyzer.runnableEnv": {
+        "LLVM_CONFIG_PATH": "/opt/homebrew/Cellar/llvm/13.0.0_1/bin/llvm-config",
+    },
+    "rust-analyzer.server.extraEnv": {
+        "LLVM_CONFIG_PATH": "/opt/homebrew/Cellar/llvm/13.0.0_1/bin/llvm-config",
+    },
+}
